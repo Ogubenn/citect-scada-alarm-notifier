@@ -1,0 +1,14 @@
+# Yerel Veritabanı ve API Kimlik Bilgileri
+config.php
+config.json
+
+# SCADA Yerel Gözcü Çalışma Logları ve Geçici Dosyalar
+scada_takip_log.txt
+offline_queue.txt
+Alarm_LOG*
+Alarm_LOG.zip
+Alarm_LOG.TXT.tmp
+
+# İşletim sistemine ait geçici dosyalar
+.DS_Store
+Thumbs.db
