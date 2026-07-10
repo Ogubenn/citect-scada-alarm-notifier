@@ -1,0 +1,9 @@
+{
+  "SUNUCU_URL": "http://scadaalarm.example.com/alarm-al.php",
+  "GIZLI_ANAHTAR": "AritmaTesisGuvenlikKodu123",
+  "LOG_KLASORU": "C:\\ProgramData\\Schneider Electric\\Vijeo Citect 7.50\\Data",
+  "DB_HOST": "localhost",
+  "DB_USER": "db_kullanici_adi",
+  "DB_PASS": "db_sifresi",
+  "DB_NAME": "db_adi"
+}
